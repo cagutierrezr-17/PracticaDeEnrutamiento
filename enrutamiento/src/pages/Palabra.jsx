@@ -17,4 +17,4 @@ const Palabra = () => {
 	)
 }
 
-export default Palabra
+export default Palabra;

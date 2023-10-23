@@ -24,4 +24,4 @@ const Numero = () => {
 }
 
 
-export default Numero
+export default Numero;
